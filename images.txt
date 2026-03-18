@@ -1,2 +1,1 @@
-bitnamilegacy/postgresql-repmgr:14.0.0
-bitnamilegacy/pgpool:4.0.6-r9
+quay.io/bitnami/postgresql-patroni:latest
