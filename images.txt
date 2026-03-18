@@ -1,1 +1,5 @@
-quay.io/bitnami/postgresql-patroni:latest
+bitnamilegacy/etcd:3.6.4-debian-12-r4
+bitnamilegacy/etcd:3.5.9-debian-11-r99
+bitnamilegacy/etcd:3.6.4
+bitnamilegacy/etcd:3.4.9
+bitnamilegacy/etcd:3.5.9
