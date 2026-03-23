@@ -1,2 +1,5 @@
-bitnamilegacy/pgpool:4.0.6-r51
+nginx:1.26.1
+redis:7.2.5
+rabbitmq:3.10.7-management
+emqx:5.8.6
 
