@@ -1,5 +1,2 @@
-zabbix/zabbix-web-nginx-mysql:5.2-centos-latest
-zabbix/zabbix-server-mysql:centos-5.2-latest
-zabbix/zabbix-agent:centos-5.2-latest
-zabbix/zabbix-java-gateway:centos-5.2-latest
-mysql/mysql-server:8.0.23
+clickhouse/clickhouse-server:25.8
+clickhouse/clickhouse-server:26.3
