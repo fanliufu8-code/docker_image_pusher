@@ -1,5 +1,2 @@
-nginx:1.26.1
-redis:7.2.5
-rabbitmq:3.10.7-management
-emqx:5.8.6
-
+clickhouse/clickhouse-server:25.8
+clickhouse/clickhouse-server:26.3
