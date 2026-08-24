@@ -1,2 +1,2 @@
-clickhouse/clickhouse-server:25.8
-clickhouse/clickhouse-server:26.3
+redis:7.4.11-alpine
+nginx:1.29.8
