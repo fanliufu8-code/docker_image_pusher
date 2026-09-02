@@ -1,3 +1,1 @@
-postgis/postgis:16-master
-postgis/postgis:16-3.5-alpine
-postgres:16.15
+clickhouse/clickhouse-server:26.8
